@@ -6,16 +6,45 @@
 	position: relative;
 	left: 450px;
 	top: 75px;
+	width: 275px;
 }
 #phones {
 	position: relative; 
 	bottom: 150px;
 	left: 90px;
 }
+#login {
+	position: relative;
+	left: 570px;
+	top: 53px;
+	color: white;
+	background: linear-gradient(#517ea3, #320088);
+	background: -webkit-linear-gradient(#517ea3, #326088);
+	background: -o-linear-gradient(#517ea3, #326088);
+	background: -moz-linear-gradient(#517ea3, #326088);
+	box-shadow: 0 0 5px black;
+	border: none;
+	border-radius: 3px;
+}
 #frame {
 	position: relative;
 	bottom: 296px;
 	left: 120px;
+}
+#summary {
+	position: relative;
+	bottom: 555px;
+	left: 467px;
+}
+#capture {
+	width: 300px;
+	color: #002b56;
+}
+p {
+	width: 410px;
+}
+span {
+	font-weight: bold;
 }
 #footer {
 	position: relative;
