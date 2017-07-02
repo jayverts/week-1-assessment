@@ -5,16 +5,25 @@
 #insta {
 	position: relative;
 	left: 450px;
-	top: 100px;
+	top: 75px;
 }
 #phones {
 	position: relative; 
 	bottom: 150px;
 	left: 90px;
 }
+#frame {
+	position: relative;
+	bottom: 296px;
+	left: 120px;
+}
+#footer {
+	position: relative;
+	bottom: 80px
+}
 ul {
 	text-align: center;
-	font-size: 9px;
+	font-size: 18px;
 }
 li {
 	display: inline;
@@ -22,4 +31,5 @@ li {
 }
 #copy {
 	color: #acacad;
+	font-size: 12px;
 }
