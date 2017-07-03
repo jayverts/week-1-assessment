@@ -42,19 +42,21 @@
 	left: 120px;
 }
 #summary {
+	font-family: "Hind Vadodara", sans-serif;
 	position: relative;
-	bottom: 555px;
-	left: 467px;
+	bottom: 577px;
+	left: 474px;
 }
 #capture {
-	width: 300px;
+	width: 323px;
 	color: #002b56;
 }
 p {
-	width: 410px;
+	width: 457px;
+	font-size: 15px;
 }
-span {
-	font-weight: bold;
+.bold {
+	font-weight: bolder;
 }
 #apple {
 	position: relative;
@@ -68,15 +70,18 @@ span {
 }
 #footer {
 	position: relative;
-	bottom: 240px;
+	bottom: 440px;
 }
 ul {
+	font-family: "Hind Vadodara", sans-serif;
 	text-align: center;
-	font-size: 18px;
+	font-size: 15px;
+	font-weight: bolder;
 }
 li {
 	display: inline;
 	color: #3b6f98;
+
 }
 #copy {
 	color: #acacad;
