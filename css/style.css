@@ -55,8 +55,8 @@ p {
 	width: 457px;
 	font-size: 15px;
 }
-span {
-	font-weight: 900;
+.bold {
+	font-weight: 700;
 }
 #apple {
 	position: relative;
