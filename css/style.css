@@ -55,8 +55,8 @@ p {
 	width: 457px;
 	font-size: 15px;
 }
-.bold {
-	font-weight: bolder;
+span {
+	font-weight: 900;
 }
 #apple {
 	position: relative;
@@ -70,7 +70,7 @@ p {
 }
 #footer {
 	position: relative;
-	bottom: 440px;
+	bottom: 460px;
 }
 ul {
 	font-family: "Hind Vadodara", sans-serif;
@@ -81,7 +81,6 @@ ul {
 li {
 	display: inline;
 	color: #3b6f98;
-
 }
 #copy {
 	color: #acacad;
