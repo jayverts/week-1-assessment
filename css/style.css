@@ -75,11 +75,13 @@ p {
 	position: relative;
 	bottom: 460px;
 }
+/* use google font for the bottom nav, also space the words to look like the picture*/
 ul {
 	font-family: "Hind Vadodara", sans-serif;
 	text-align: center;
 	font-size: 15px;
 	font-weight: bolder;
+	word-spacing: 9px;
 }
 li {
 	display: inline;
